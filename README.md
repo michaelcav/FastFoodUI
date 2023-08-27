@@ -2,6 +2,7 @@
 app with react native 
 
 1 - faça o download ou clone o projeto com o git clone https://github.com/michaelcav/FastFoodUI.git
+
 2 - npm install 
 3 - npx expo start 
 4 - pressione a no teclado
